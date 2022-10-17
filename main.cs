@@ -3,7 +3,6 @@
 //
 // This program displays, the area of a triangle
 
-
 using System;
 
 class Program {
